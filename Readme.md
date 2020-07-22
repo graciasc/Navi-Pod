@@ -16,9 +16,17 @@
  https://bulma.io/documentation/
  https://fontawesome.com/v4.7.0/
  
+#
+ ## Deployment
  ### How to Deploy or Run:
- https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
+  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+ ```sh
+git clone git@github.com:graciasc/Navi-Pod.git
+```
+#
 ##### Colaboration:  Gracias, and Nav
-https://github.com/graciasc --- https://linkedin.com/in/nav-l-volcy-336535177/
-https://github.com/navvolcy ---- https://linkedIn.com/in/gracias-claude/
+https://github.com/graciasc
+https://linkedin.com/in/nav-l-volcy-336535177/
+
+https://github.com/navvolcy
+https://linkedIn.com/in/gracias-claude/
