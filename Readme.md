@@ -20,5 +20,5 @@
  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 ##### Colaboration:  Gracias, and Nav
-github.com/graciasc --- linkedin.com/in/nav-l-volcy-336535177/
-github.com/navvolcy ---- linkedIn.com/in/gracias-claude/
+https://github.com/graciasc --- https://linkedin.com/in/nav-l-volcy-336535177/
+https://github.com/navvolcy ---- https://linkedIn.com/in/gracias-claude/
