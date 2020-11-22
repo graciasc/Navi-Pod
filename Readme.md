@@ -1,6 +1,11 @@
 # Building out a blog site using HTML/CSS
 
+### Tailwlindcss:
+https://play.tailwindcss.com/jkbsHuT5U9
 
+#### Mock:
+![image](https://drive.google.com/uc?export=view&id=1XQJklzmF8enKPIjdg7AJ6XLVM9HRWwZE)
+![image](https://drive.google.com/uc?export=view&id=1HGVT3RrZMv6RhLVVwY7Mvh5MrmlMAsVf)
  
  ## 1. Build Homepage
 - Add a nav bar
