@@ -5,7 +5,7 @@ https://play.tailwindcss.com/jkbsHuT5U9
 
 #### Mock:
 ![image](https://drive.google.com/uc?export=view&id=1XQJklzmF8enKPIjdg7AJ6XLVM9HRWwZE)
-![image](https://drive.google.com/uc?export=view&id=1nYlkoFduzLEES1XjcJF2QI1CwGvfEPgu)
+![image](https://drive.google.com/uc?export=view&id=1F10DpHNYi4-ptjV6wnMfIlU5YBdM_vLQ)
  
  ## 1. Build Homepage
 - Add a nav bar
