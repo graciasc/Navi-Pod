@@ -1,7 +1,7 @@
 # Building out a blog site using HTML/CSS
 
 ### Tailwlindcss:
-https://play.tailwindcss.com/jkbsHuT5U9
+https://play.tailwindcss.com/jltxpZJo4K
 
 #### Mock:
 ![image](https://drive.google.com/uc?export=view&id=1XQJklzmF8enKPIjdg7AJ6XLVM9HRWwZE)
